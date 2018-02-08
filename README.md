@@ -30,4 +30,4 @@ Answer the questions in the exercises here. Push your answer and code to Github 
 * What is the result when you use TreeSet instead of HashSet?
 	- The order will set by first alphabet.
 * Could we make `setExplorer` work with either Set or List?  How?
-	-
+	- Yes, we can change parametor Set to Collection
